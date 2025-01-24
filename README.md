@@ -1,15 +1,11 @@
 ## Hi there 👋, I'm Fahmi Irfan Faiz
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fahmiirfanfaiz&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fahmiirfanfaiz&show_icons=true&theme=radical"/>
+<img align="left" width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiirfanfaiz&layout=compact&theme=radical"/>
 
-<img align="left" width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiirfanfaiz&layout=compact"/>
-<!--
-**fahmiirfanfaiz/fahmiirfanfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Website Development & Cyber Security
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
