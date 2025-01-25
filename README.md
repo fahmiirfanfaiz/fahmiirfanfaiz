@@ -1,4 +1,4 @@
-## Hi there folks👋, I'm Fahmi Irfan Faiz  
+## Hi folks👋, I'm Fahmi Irfan Faiz  
 An **Information Technology student** at **Gadjah Mada University** with a passion for **Website Development** and **Cyber Security**.
 
 ---
