@@ -1,5 +1,5 @@
 ## Hi folks👋, I'm Fahmi Irfan Faiz  
-An ordinary **Information Technology student** at **Gadjah Mada University** with a passion for **Software Engineering** and **Cyber Security**.
+Just an ordinary **Information Technology student** at **Gadjah Mada University** with a passion for **Software Engineering** and **Cyber Security**.
 
 ---
 
