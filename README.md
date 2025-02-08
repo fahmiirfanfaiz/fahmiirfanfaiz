@@ -8,5 +8,4 @@ Just an ordinary **Information Technology undergraduate student** at **Gadjah Ma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiirfanfaiz&layout=compact&theme=radical" alt="Top Languages" width="42.2%" style="max-width: 100%;"/>
 </div>
 
----
 
