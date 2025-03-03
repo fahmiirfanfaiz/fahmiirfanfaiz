@@ -1,4 +1,4 @@
-## Hi folks👋, I'm Fahmi Irfan Faiz  
+## Hi folks, I'm Fahmi Irfan Faiz👋 
 Just an ordinary **Information Technology undergraduate student** at **Universitas Gadjah Mada** with a passion for **Software Engineering** and **Cyber Security**.
 
 ---
